@@ -1,0 +1,112 @@
+body {
+    background-color: #000; 
+    color: #fff;
+    font-family: Arial, sans-serif; 
+    padding: 20px;
+}
+
+.navbar {
+    padding: 20px; 
+    background-color: #000;
+}
+
+.card-wrapper {
+    margin: 5% 0;
+    background-color: #000000; 
+    padding: 20px; 
+    border-radius: 10px; 
+}
+
+.card {
+    border: 1px solid #333; 
+}
+
+
+.custom-circle-image {
+    background-color: #000000;
+    color: #000000;
+    width: 10vw; 
+    height: 10vw;
+}
+
+.custom-card-body {
+    background-color: #272626; /* Dark background color for card body */
+    color: #000000; /* White text color */
+    padding: 20px;
+    border-radius: 3px;
+}
+
+
+.custom-circle-image img {
+    background-color: #000000;
+    object-fit: cover;
+    border-radius: 50%; 
+}
+
+.custom-black-circle {
+    background-color: #333; /* Dark background color for circle */
+}
+
+.custom-container {
+    background-color: #000; /* Black background color */
+}
+
+.custom-card-wrapper {
+    background-color: #000; /* Black background color */
+}
+
+.custom-card-border {
+    border: 1px solid #000; /* Black border */
+    background-color: #272626;
+}
+
+
+
+.card-title {
+    letter-spacing: 1.1px;
+    color: #ffffff; 
+    margin-top: 10px; 
+}
+
+.card-text {
+    font-size: 18px; 
+    line-height: 1.5; 
+    color: #ffffff; 
+}
+
+.dropzone {
+    border-style: dashed;
+    border-color: #fff; 
+    background-color: #666; 
+    color: #fff; 
+    padding: 20px; 
+    border-radius: 10px; 
+    text-align: center; 
+}
+
+.error {
+    font-size: 24px; 
+    color: #dc3545; 
+    text-align: center;
+    margin-top: 20px; 
+}
+
+#classTable {
+    border-collapse: collapse;
+    width: 100%;
+    color: #f6f6f6; 
+}
+
+#classTable td,
+#classTable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#classTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
