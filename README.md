@@ -17,4 +17,8 @@ cd CelebClassifierProject/server
 python server.py
 ```
 
+**Open in browser**
 
+```shell
+http://127.0.0.1:5000/classify_image
+```
