@@ -8,7 +8,7 @@ Open your command prompt or terminal and execute the following command to clone 
 **Change Directory**
 
 ```shell
-cd server
+cd CelebClassifierProject/server
 ```
 
 **Run the app**
